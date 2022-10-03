@@ -1,0 +1,14 @@
+1. Задача. 
+Преобразователь RC ШИМ в степ дир, ардуино, для двух двигателей.
+
+Arduino reading RC PWM Inputs via Interrupts
+https://github.com/atsui888/RC_Receiver_PWM_Interrupt
+
+Ардуино, работа с прерываниями
+http://rcl-radio.ru/?p=94292
+
+Ардуино уно pinout
+https://www.circuito.io/blog/arduino-uno-pinout/
+
+Ардуино nano pinout
+http://arduino.zl3p.com/infa/pins_nano
